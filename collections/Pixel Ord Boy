@@ -1,0 +1,429 @@
+// meta.json
+
+{
+  "name": "Pixel Ord Boy",
+  "slug": "Pixel-Ord-Boy",
+  "supply": "59",
+  "description": "ORD BOY hidden under 1 million inscriptions placed on the Bitcoin network.",
+  "twitter_link": "https://twitter.com/nrlnft",
+  "discord_link": "",
+  "website_link": "https://nrlnft.com/",
+  "inscription_icon": "6c227f826ac0339296385ce1f8814f48b57429a276de772127011304f9c2c5fbi0"
+}
+// inscriptions.json
+
+[
+  {
+    "id": "08cff68c837639af4298d8cecfbfe32b7b1ddf516f8a50d5345bcc21ce87c109i0",
+    "meta": {
+      "name": "Pixel Ord Boy #01",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d282ebf4afa6e29dd99d54bfdcaaaf3c96610e2e305ab621ac11dca8a645fe64i0",
+    "meta": {
+      "name": "Pixel Ord Boy #02",
+      "attributes": []
+    }
+  },
+  {
+    "id": "499f73baa3b9da66be6a7270bb7bac26fbdb903692977dee1ef7a53c25a11f50i0",
+    "meta": {
+      "name": "Pixel Ord Boy #03",
+      "attributes": []
+    }
+  },
+  {
+    "id": "be7c496a5fd14b3dbc8c7d0627192e82aa56aee0be59f37b57485331ef29b21ci0",
+    "meta": {
+      "name": "Pixel Ord Boy #04",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2aca9d0e303ceed71629300bb5a69705da584f1a4ea7bf7ddbfa88b5ec3cef5ei0",
+    "meta": {
+      "name": "Pixel Ord Boy #05",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e54c924e5191d8eb84221a3a512e09c926e4f02b3bd952339d3f3795c590af90i0",
+    "meta": {
+      "name": "Pixel Ord Boy #06",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b1f8d69baf43b390caba53ead60d4af16e522adbb3e3e71ef27aff33fa12e5ddi0",
+    "meta": {
+      "name": "Pixel Ord Boy #07",
+      "attributes": []
+    }
+  },
+  {
+    "id": "8c6303bb0ef32c11cfccaa51c077cbb81491c1f27aa310c513b46fc168aa0d98i0",
+    "meta": {
+      "name": "Pixel Ord Boy #08",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b0e03f66024d5c7c31bda7143900c34f5ca1aed55efd9af7dbb67340821da324i0",
+    "meta": {
+      "name": "Pixel Ord Boy #09",
+      "attributes": []
+    }
+  },
+  {
+    "id": "dfc89ad325c87a3f2b9c7d1e922b2a37c6552d73e1834d320681f469a02f8b0bi0",
+    "meta": {
+      "name": "Pixel Ord Boy #10",
+      "attributes": []
+    }
+  },
+  {
+    "id": "05d9830295f68925a71c39b2e6d257afec1bd3dcb9630aa99e1399dfec6a510di0",
+    "meta": {
+      "name": "Pixel Ord Boy #11",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f34d654bf0dac44b8ca2e9b4ee4fb7f99f68743a350009802f54d83f1e4afd2fi0",
+    "meta": {
+      "name": "Pixel Ord Boy #12",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3fcb68bb5bdd7a0bad277bf6079503f4eb188c3dc010752f93b019462fc20d34i0",
+    "meta": {
+      "name": "Pixel Ord Boy #13",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4f6fc5467c63ee265c56575fd65ecaf38c029881b559babb07ab1568692ea743i0",
+    "meta": {
+      "name": "Pixel Ord Boy #14",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b42ecd77a9a0c21c083aa53978628f457f0eb037db56279118af3f9cf44f21b6i0",
+    "meta": {
+      "name": "Pixel Ord Boy #15",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9ed80f0494f284ddbb281da238a624abfc00ded6eba6ce0807778da4279119cci0",
+    "meta": {
+      "name": "Pixel Ord Boy #16",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4592ad03a64fd6fd0810464c2c76e3ef922a06bd072613c8d21b25b24de2010di0",
+    "meta": {
+      "name": "Pixel Ord Boy #17",
+      "attributes": []
+    }
+  },
+  {
+    "id": "614beab51a314aa01c8ccbeff0bd43a2d947f0eb8c2f1b5157d86fee39c7840ai0",
+    "meta": {
+      "name": "Pixel Ord Boy #18",
+      "attributes": []
+    }
+  },
+  {
+    "id": "080d82a76757efdd37bf70e5bad5ebe48145f2c54cb4abba16feac62be1be819i0",
+    "meta": {
+      "name": "Pixel Ord Boy #19",
+      "attributes": []
+    }
+  },
+  {
+    "id": "32effc5c77e189ae68b59d75078a7f0f15ceb82500cd838bc0afe9f6a99163b1i0",
+    "meta": {
+      "name": "Pixel Ord Boy #20",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c8dc6a26f94878c33f15fd8f1a6ac79580fdd00749191c7766562eb387013680i0",
+    "meta": {
+      "name": "Pixel Ord Boy #21",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e3c1d6996c45f0816a8518f2cdb497d1496c1ec2b5539ec4dae3a87959209c92i0",
+    "meta": {
+      "name": "Pixel Ord Boy #22",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e003e4b5714199e7efc585074448253a13bb817154202a9f63f4992e6ce79578i0",
+    "meta": {
+      "name": "Pixel Ord Boy #23",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2355f8b44175120e07ea5ec468300aae2387bacda99e1054be53650c8dbfa305i0",
+    "meta": {
+      "name": "Pixel Ord Boy #24",
+      "attributes": []
+    }
+  },
+  {
+    "id": "513531b467f4083d84d1609faa861bd769d35804ea2ad232c9f867a7eefa5412i0",
+    "meta": {
+      "name": "Pixel Ord Boy #25",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a6b61c110785c7a7d285e70c2fcac9de93ea73c0093babe3566f202dd4ca781bi0",
+    "meta": {
+      "name": "Pixel Ord Boy #26",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d57c7470719d849590526f5001f2c222d804f8b77ecc105a947e3e2d024f301di0",
+    "meta": {
+      "name": "Pixel Ord Boy #27",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5b5a143878ee9f022400e73ad4708493c10306937717b943cb73d4300a4d5e1ei0",
+    "meta": {
+      "name": "Pixel Ord Boy #28",
+      "attributes": []
+    }
+  },
+  {
+    "id": "02d934099fae2d843ddb10e5eeae7a915a40755875f1c9a2890b9695156e9224i0",
+    "meta": {
+      "name": "Pixel Ord Boy #29",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7f79e682d43c0a29835d83e281a9777527136649e0f67fdd324875ee7525ad2ai0",
+    "meta": {
+      "name": "Pixel Ord Boy #30",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7e96f1bbeafd5070c184cc6d133b4e198039c144b72abc2dfb3cbd1c266d5843i0",
+    "meta": {
+      "name": "Pixel Ord Boy #31",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7251f33691943be7a35fac4ae800e3f083fa0277c80119b54a5b8b710fbfb543i0",
+    "meta": {
+      "name": "Pixel Ord Boy #32",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f411dcca7f9f7892f666dc0252e873797049c2f2e4fd91526116a1493bf89c4di0",
+    "meta": {
+      "name": "Pixel Ord Boy #33",
+      "attributes": []
+    }
+  },
+  {
+    "id": "91bc67b9f28ed6f7c392dced42b4ebab4890c04c8ae8a6030185d855ad0f3a50i0",
+    "meta": {
+      "name": "Pixel Ord Boy #34",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f54d2638f4c5e0e57a750e20df61c1f74bb09aa61065454360ecdc82c90ee450i0",
+    "meta": {
+      "name": "Pixel Ord Boy #35",
+      "attributes": []
+    }
+  },
+  {
+    "id": "bd2694a22a32f17c3dc16bb24c0f37d915e89c06b4b2c57d2ae65bdecd07a551i0",
+    "meta": {
+      "name": "Pixel Ord Boy #36",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9afc0af82fe5c46227eb71afeb78e8c53a27ce7e40800ee0bb4a67ee705fc853i0",
+    "meta": {
+      "name": "Pixel Ord Boy #37",
+      "attributes": []
+    }
+  },
+  {
+    "id": "efb7a94282cf5797cf9b78d65fca9dc3624427f524216c0d451957a16714d957i0",
+    "meta": {
+      "name": "Pixel Ord Boy #38",
+      "attributes": []
+    }
+  },
+  {
+    "id": "bd66d7493f067ff491079d8d64b927c8bbac8c91a7076df69cdb9cd943034d71i0",
+    "meta": {
+      "name": "Pixel Ord Boy #39",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b385ef6247364abcca2fa2b47b3d1ca1eebd7b288c4431c73d2caaa396c9a274i0",
+    "meta": {
+      "name": "Pixel Ord Boy #40",
+      "attributes": []
+    }
+  },
+  {
+    "id": "db9e3931c00063dbdd3a0cc516c1aa1c560378c0cced03b39150dfb2d2120977i0",
+    "meta": {
+      "name": "Pixel Ord Boy #41",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1ec90dd2c1a56889a7bdb58686879365ad04f2ad52dd9338f3eaeb84a24c2c7ci0",
+    "meta": {
+      "name": "Pixel Ord Boy #42",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f26ef56562fbcf90c34ef4521915245806d110f36ef1c96a71823e7fb1a5318ei0",
+    "meta": {
+      "name": "Pixel Ord Boy #43",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0fa4cb22d7ef8fd6b407885f7c37ece4029b0a00b15cf1dfcd029f6f2bb16baei0",
+    "meta": {
+      "name": "Pixel Ord Boy #44",
+      "attributes": []
+    }
+  },
+  {
+    "id": "635ae4b43d22a7e84a466afd755299f0f3a7134357d1a0be732c74bd9ee0f9b3i0",
+    "meta": {
+      "name": "Pixel Ord Boy #45",
+      "attributes": []
+    }
+  },
+  {
+    "id": "cf310958f6cbd3e77ce6eabfe8d59918e94f65318a842b94f36b64f1aef342b9i0",
+    "meta": {
+      "name": "Pixel Ord Boy #46",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d57bc5a831016424abb0de6d3da0762b56f7fd53d921283fadc6849468811dbfi0",
+    "meta": {
+      "name": "Pixel Ord Boy #47",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b187c671dcf0f0d0107c77d0cf387a81f2d0b060971deab3f16acf52589da0c6i0",
+    "meta": {
+      "name": "Pixel Ord Boy #48",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1aa19dc34d9b82da9fdff1c8331a0e19b4d78bad60301499f318605f0a0c6fd0i0",
+    "meta": {
+      "name": "Pixel Ord Boy #49",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1357566fb58f279625476b31c408589db8b2c6b2644821d9f0de355abb8920d5i0",
+    "meta": {
+      "name": "Pixel Ord Boy #50",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2856faac90b328504ecb332b5b80cc0864c8da601446e2beccd9a0b95ac179d8i0",
+    "meta": {
+      "name": "Pixel Ord Boy #51",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0c9830e623f05bc2e86dcdf0691d2e2444a7a1d6e4b4f331e450fb2f9ac78de5i0",
+    "meta": {
+      "name": "Pixel Ord Boy #52",
+      "attributes": []
+    }
+  },
+  {
+    "id": "507660ab414336ffb33dd8c66bf7f7f87f68fadb71e4b19f076aa5871cf0ffe5i0",
+    "meta": {
+      "name": "Pixel Ord Boy #53",
+      "attributes": []
+    }
+  },
+  {
+    "id": "001ceab876e59cfef9e03a487ca42720e33a873d39b579da6473c9b9030372eci0",
+    "meta": {
+      "name": "Pixel Ord Boy #54",
+      "attributes": []
+    }
+  },
+  {
+    "id": "475ae1735629f686489ac71147af83ae9553eb07e74888557bbaa9868331a2edi0",
+    "meta": {
+      "name": "Pixel Ord Boy #55",
+      "attributes": []
+    }
+  },
+  {
+    "id": "33eea15128cd898d4bb744504ed5827993961057cd491927ae5d008ce64682efi0",
+    "meta": {
+      "name": "Pixel Ord Boy #56",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6b0c2e5562330f6bfae96d2e069c4428abadafb3e8cc585df4e4f22a3370a9f4i0",
+    "meta": {
+      "name": "Pixel Ord Boy #57",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6c227f826ac0339296385ce1f8814f48b57429a276de772127011304f9c2c5fbi0",
+    "meta": {
+      "name": "Pixel Ord Boy #58",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3a6ab34e1f8838f460316c73f3875ce102297bdd0ffcf0d72e774b58e91ef2fei0",
+    "meta": {
+      "name": "Pixel Ord Boy #59",
+      "attributes": []
+    }
+  }
+]
